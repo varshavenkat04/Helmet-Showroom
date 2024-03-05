@@ -1,0 +1,22 @@
+.topnav {
+    overflow: hidden;
+    background-color:  #0a1e27;
+  }
+  
+  .topnav a {
+    float: left;
+    display: block;
+    color: rgb(233, 230, 230);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #3377a4;
+    color: rgb(250, 251, 248);
+  }
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
